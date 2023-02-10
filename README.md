@@ -1,4 +1,6 @@
-# Bachelor Kolloquium Presentation
+# Investigating the theory-practice gap of Scrum
+
+> Bachelor Kolloquium Presentation
 
 In this presentation, we will explore the theory-practice gap in Scrum, a popular agile project management framework, and its implications for organizations. Utilizing reveal.js and following the style guide from the TH Köln, this presentation will provide a comprehensive analysis of the current state of Scrum and identify the factors contributing to the gap between its theoretical foundations and practical implementation.
 
