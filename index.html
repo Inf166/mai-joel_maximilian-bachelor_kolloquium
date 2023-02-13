@@ -19,90 +19,30 @@
 		<div class="reveal">
 			<div class="slides">
 				<section>
-					<section>
-						<h2>Take a Moment</h2>
-						<p>
-							Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-						</p>
-					</section>
-	
+					<h2 class="r-fit-text">Willkommen!</h2>
 
-					<section class="welcome">
-						<h2>Speaker View</h2>
-						<p>There's a <a href="https://revealjs.com/speaker-view/">speaker view</a>. It includes a timer, preview of the upcoming slide as well as your speaker notes.</p>
-						<p>Press the <em>S</em> key to try it out.</p>
-
-						<aside class="notes">
-							Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-						</aside>
-					</section>
-	
-
-					<section class="assignment center">
-						<h2>Class: Assignment center</h2>
-						<p>Black hr, Medium title and centered description</p>
-					</section>
-
-					<section class="welcome center" data-background-color="#dd1166">
-						<h2>Class: Welcome center</h2>
-						<p>White colored hr between title and text</p>
-					</section>
-
-					<section class="simple center">
-						<h2>Class: Simple center</h2>
-						<p>Black colored hr between title and text smaller</p>
-					</section>
-						
-					<section class="interlude center">
-						<h2>Class: Interlude center</h2>
-						<p>White border, everything centered, smallest text</p>
-					</section>
-
-					<section class="outro center">
-						<h2>Class: Outro center</h2>
-						<p>Nobody knows</p>
-						<p><i class="fa fa-twitter" aria-hidden="true"></i><span> This is a social</span></p>
-						<p><i class="fa fa-github" aria-hidden="true"></i><span> This is a social</span></p>
-					</section>
-
-					<section>
-						<h2 class="r-fit-text">BIG WORDS THAT FIT THE SCREEN</h2>
-					</section>
-
-					<section>
-						<h2>Fragments in order to make bullet lists better</h2>
-						<ul>
-							<li class="fragment">One point</li>
-							<li class="fragment">after</li>
-							<li class="fragment">another</li>
-						</ul>
-						<p><span class="fragment">Or </span><span class="fragment">a </span><span class="fragment">sentence.</span></p>
-					</section>
-					
+					<aside class="notes">
+						Herzlich Willkommen zu dem heutigen Kolloquium!
+					</aside>
 				</section>
 				
 				<section>
-					<section data-background-color="#dd1166" class="welcome" data-background-transition="zoom">
-						<h2>Titelfolie</h2>
-						<p>Die Titelfolie ist der erste Eindruck deiner Präsentation. Hier begrüßt du deine Zuhörerschaft und nennst das Thema deiner Bachelorarbeit.</p>
-						<ul>
-							<li>Art deiner Arbeit (z. B. Bachelorarbeit, Masterarbeit oder Dissertation)</li>
-							<li>Titel deiner Arbeit</li>
-							<li>dein Name</li>
-							<li>das Datum der Verteidigung</li>
-							<li>der Name oder das Logo deiner Hochschule</li>
-						</ul>
-
+					<section data-background-color="#dd1166">
+						<h2 class="r-fit-text">Untersuchung des Theorie-Praxis Gaps von Scrum</h2>
+						<hr>
+						<p style="text-align: center;">Bachelorarbeit - <strong>Joël Maximilian Mai</strong> - Kolloquium: 21.03.2023</p>
+						<div style="background-color: #ffffffed;padding:16px; border-radius:8px;width: fit-content;margin: auto;">
+							<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TH_Koeln_Logo.svg/512px-TH_Koeln_Logo.svg.png" style="background:#fff0;margin-top: 0px!important;margin-bottom: 0px;" width="144px"/>
+						</div>
+	
 						<aside class="notes">
 							Speaker notes here.
 						</aside>
 					</section>
-				</section>
-				
-				<section>
-					<section data-background-color="#4952E1" class="welcome">
-						<h2>Agenda</h2>
-						<p>Gib einen kurzen Überblick über die Agenda deiner Präsentation, damit deine Zuhörerschaft weiß, was sie erwartet.</p>
+
+					<section class="welcome">
+						<h2 class="fragment">Die heutige Agenda:</h2>
+						<!-- Gib einen kurzen Überblick über die Agenda deiner Präsentation, damit deine Zuhörerschaft weiß, was sie erwartet. -->
 						<table style="text-align:left;">
 							<ul>
 								<li class="fragment fade-in-then-semi-out">Einleitung</li>
@@ -110,7 +50,7 @@
 								<li class="fragment fade-in-then-semi-out">Methodik</li>
 								<li class="fragment fade-in-then-semi-out">Ergebnisse</li>
 								<li class="fragment fade-in-then-semi-out">Fazit und weitere Forschungsansätze</li>
-								<li class="fragment fade-in-then-semi-out">Quellenangaben</li>
+								<li class="fragment fade-in-then-semi-out">Diskussion</li>
 							</ul>
 						</table>
 
@@ -211,8 +151,13 @@
 		<script src="https://kit.fontawesome.com/2365a6ff25.js" crossorigin="anonymous"></script>
 
 		<script>
+			// Keyboard options enable presenter stick to work
 			Reveal.initialize({
 				hash: true,
+				keyboard: {
+					39: 'next',
+					37: 'prev'
+				},
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
 		</script>
