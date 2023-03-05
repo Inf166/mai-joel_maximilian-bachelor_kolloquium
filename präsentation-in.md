@@ -111,7 +111,7 @@ p. 73).
 
 - Agile Methoden wie Scrum profitieren von der Reduzierung der Befehls- und Kontrollstrukturen und der Veränderung der Kultur und Führung in der Organisation.
 - Ein sanfter Ansatz bei der Transformation von Hierachien ist angebracht (Jilani and Ikram 2020, p. 6)
-- Der PO übernimmt die Produktführung, während der Scrum Master die Prozessführung in Scrum übernimmt, und andere Führungsrollen konzentrieren sich auf die Entwicklung der Fähigkeiten der Teammitglieder (Rubin, 2012, pp. 15--16)(Alami & Krancher, 2022, p. 56)
+- Der PO übernimmt die Produktführung, während der Scrum Master die Prozessführung in Scrum übernimmt, und andere Führungsrollen konzentrieren sich auf die Entwicklung der Fähigkeiten der Teammitglieder (Rubin, 2012, pp. 15--16; Alami & Krancher, 2022, p. 56)
 - Im Idealfall führt sich jeder selbst (Moreira, 2013a, p. 39)
 - Der PO ist die einzige Autorität, die entscheidet, woran das Scrum Team arbeiten soll, während der Scrum Master Hindernisse aus dem Weg räumt (Alami & Krancher, 2022, p. 56).
 - Traditionelle Management- und Führungsansätze folgen einem transaktionalen Führungsstil, der sich auf das Anweisen und Zuweisen von Arbeit konzentriert (Moreira, 2013a, p. 124; Uwadi et al., 2022, p. 101).
@@ -123,8 +123,8 @@ p. 73).
 ## Verkaufen der Methodik an Kunden und beraten sie
 
 - Die Einbeziehung des Kunden ist entscheidend für den Projekterfolg, und die Zusammenarbeit ist wertvoller als Vertragsverhandlungen.
-- 60 % der Projektrisiken können mit dem Kunden in Verbindung gebracht werden, und die direkte Einbeziehung und Schulung des Kunden kann dazu beitragen, diese Risiken zu mindern.
-- Abschlagszahlungen begrenzen die Ausweitung des Projektumfangs und tragen zur Verfeinerung des Produkts bei (Coyle & Conboy, 2009, p. 5).
+- 60 % der Projektrisiken können mit dem Kunden in Verbindung gebracht werden, und die direkte Einbeziehung und Schulung des Kunden kann dazu beitragen, diese Risiken zu mindern(Coyle & Conboy, 2009, p. 5)
+- Abschlagszahlungen begrenzen die Ausweitung des Projektumfangs und tragen zur Verfeinerung des Produkts bei (Beck et al., 2001).
 - Der PO verfügt über das gesamte erforderliche Wissen über das Produkt und sollte ein Fachmann sein, wenn das Produkt ausgelagert wird (Rubin, 2012, p. 180)
 - Die Priorisierung der Backlog-Elemente erfordert Diskussionen zwischen dem PO und dem Entwicklungsteam (Rajasekaran, 2015, p. 2).
 - Der Vertrag sollte eher als Leasingvertrag für den Scrum Master und das Entwicklungsteam betrachtet werden als ein Festpreisvertrag (Rubin, 2012, p. 180).
