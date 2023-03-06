@@ -289,7 +289,7 @@ Kreuz, 2016, p. 127) (Boehm, 2002, p. 65).
 - Die Studie erweitert die bestehende Literatur zur Implementierung der Scrum-Methodik
 - Abweichungen von der vorgeschriebenen Sprint-Methodik im Scrum Guide werden aufgezeigt
 - Die durchschnittliche Sprintlänge beträgt 1,57 Wochen, wobei 41,7 % der Befragten 2-Wochen-Sprints verwenden
-- Abweichend von früheren Untersuchungen wurden keine dedizierten Enhancement Sprints gefunden(Sutherland, 2005, p. 2).
+- Abweichend von früheren Untersuchungen wurden keine dedizierten Enhancement Sprints gefunden (Sutherland, 2005, p. 2).
 - Die Studie schlägt vor, dass Unternehmen mit dem Framework experimentieren, bevor sie Änderungen vornehmen (Wang et al., 2018, pp. 9–13).
 - Was zu Wertvollen Einblicken führt für diejenigen, die die Einführung von Scrum erwägen
 
