@@ -417,6 +417,10 @@ body {
   content: "#";
   color: #9313c3;
 }
+.reveal .slides li.numbered:before {
+  content: "#" counter(item, decimal) "";
+  counter-increment: item;
+}
 .reveal .slides th {
   line-height: 140%;
 }
@@ -779,7 +783,8 @@ body {
   display: inline-block;
   margin: 0 0 0 1em;
   text-align: left;
-  list-style-type: decimal;
+  counter-reset: item;
+  list-style-type: none;
 }
 .reveal ol ol {
   display: block;
