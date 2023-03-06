@@ -399,3 +399,16 @@ die keinen Raum für Anpassungen lässt, mehr zu kämpfen haben werden als mit e
 - Die Vor- und Nachteile von voll ausgestatteten Frameworks müssen analysiert werden, um die Einführung und Umsetzung von Scrum zu optimieren.
 - Die Auswirkungen von Überarbeitungen des Scrum-Leitfadens auf Organisationen, die den Übergang vollziehen, müssen verstanden werden, um das Rahmenwerk zu verfeinern.
 - Um die Zusammenarbeit mit Kunden zu verbessern, ist es notwendig, die Gründe zu verstehen, warum Organisationen Schwierigkeiten mit der Zusammenarbeit mit Kunden haben
+
+#### Quellenangaben
+
+
+
+
+
+
+
+
+
+
+

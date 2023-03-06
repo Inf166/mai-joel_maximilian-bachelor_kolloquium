@@ -114,6 +114,10 @@ body {
 				content: '#';
 				color: #9313c3;
 			}
+			&.numbered:before {
+				content: '#' counter(item, decimal) '';
+				counter-increment: item;
+			}
 		}
 		th {
 			line-height: 140%;
@@ -514,7 +518,8 @@ body {
 		display: inline-block;
 		margin: 0 0 0 1em;
 		text-align: left;
-		list-style-type: decimal;
+		counter-reset: item;
+		list-style-type: none;
 		ol {
 			display: block;
 			margin-left: 40px;
