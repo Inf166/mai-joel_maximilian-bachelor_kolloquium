@@ -152,7 +152,7 @@ Krancher, 2022, p. 5).
 
 – Verwendung des Dreyfus-Quadrat-Modells zur Bildung effektiver Paare in Teams für innovative Lösungen (North, 2022).
 - Durchführung von Abstimmungs- und Planungsbesprechungen für eine effektive parallele Arbeit an Produkten durch mehrere Teams (Rawsthorne & Shimp, 2019, p. 57).
-- Implementieren Sie die Daily Stand Up- und Sprint Planning-Meetings, um eine gemeinsame Vision für das Produkt zu entwickeln 
+- Implementieren Sie die Daily Stand Up- und Sprint Planning-Meetings, um eine gemeinsame Vision für das Produkt zu entwickeln
 - Die regelmäßige Zusammenarbeit mit den Teammitgliedern trägt zur Aufrechterhaltung der Motivation bei (Zikopi, 2019, p. 7).
 - Ein starker Teamleiter wie der Scrum Master und PO kann Ablenkungen beseitigen (Naseem & Tahir, 2009, p. 21).
 - Effektive Teams schaffen ein Gleichgewicht zwischen Verantwortlichkeit und dem Bedürfnis nach Pausen, um eine Überlastung der Teammitglieder zu vermeiden (Rubin, 2012, p. 137).
@@ -327,8 +327,7 @@ Kreuz, 2016, p. 127) (Boehm, 2002, p. 65).
 ### Einführung und Entwicklung des Scrum-Rahmens
 
 - Scrum wird nach wie vor überwiegend von Softwareentwicklungsabteilungen eingesetzt, aber auch Abteilungen außerhalb der Softwareentwicklung setzen Scrum zunehmend ein (Schwaber & Sutherland, 2020b, Revision 2010–2013)
-- Hybride Ansätze für Scrum führen zu einer geringen Selbsteinschätzung in Bezug auf das Selbstmanagement, und Scrum selbst weist ein geringes Maß an Selbstmanagement auf (de
-Koning & Koot, 2019, p. 24)
+- Hybride Ansätze für Scrum führen zu einer geringen Selbsteinschätzung in Bezug auf das Selbstmanagement, und Scrum selbst weist ein geringes Maß an Selbstmanagement auf (de Koning & Koot, 2019, p. 24)
 - Das Management spielt eine wichtige Rolle bei der erfolgreichen Einführung von Scrum (Moreira, 2013a, p. 125; Boehm & Turner, 2005, pp. 37–38)
 - Die im Scrum-Leitfaden vorgeschriebenen Alignment-Methoden werden nur in geringem Maße genutzt, obwohl sie die Zusammenarbeit und die Effektivität verbessern können.
 
@@ -401,14 +400,3 @@ die keinen Raum für Anpassungen lässt, mehr zu kämpfen haben werden als mit e
 - Um die Zusammenarbeit mit Kunden zu verbessern, ist es notwendig, die Gründe zu verstehen, warum Organisationen Schwierigkeiten mit der Zusammenarbeit mit Kunden haben
 
 #### Quellenangaben
-
-
-
-
-
-
-
-
-
-
-
