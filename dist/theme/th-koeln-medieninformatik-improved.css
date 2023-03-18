@@ -1078,3 +1078,10 @@ span.cite {
 div.speaker-controls-notes li {
   font-size: 2.4vh;
 }
+
+div.media {
+  padding: 16px;
+}
+div.media img.center {
+  margin: auto;
+}
