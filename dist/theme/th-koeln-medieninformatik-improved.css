@@ -1082,6 +1082,9 @@ div.speaker-controls-notes li {
 div.media {
   padding: 16px;
 }
-div.media img.center {
+div.media div.center {
   margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

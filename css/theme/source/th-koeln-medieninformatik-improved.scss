@@ -829,7 +829,10 @@ div.speaker-controls-notes li {
 div.media {
 	padding: 16px;
 
-	img.center {
+	div.center {
 		margin: auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 }
