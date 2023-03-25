@@ -117,6 +117,7 @@ body {
 			&.numbered:before {
 				content: '#' counter(item, decimal) '';
 				counter-increment: item;
+				margin-right: 0.5rem;
 			}
 		}
 		th {
