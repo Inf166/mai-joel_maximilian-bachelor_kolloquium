@@ -10,9 +10,9 @@ Furthermore, this presentation will propose potential solutions to close the the
 
 ## Pages
 
-- [My Presentation](https://inf166.github.io/mai-joel_maximilian-bachelor_kolloquium/)
-- [RevealJS Demo](https://inf166.github.io/mai-joel_maximilian-bachelor_kolloquium/demo.html)
-- [Original Presentation](https://inf166.github.io/mai-joel_maximilian-bachelor_kolloquium/mi-original.html)
+- [My Presentation](https://mai-space.github.io/mai-joel_maximilian-bachelor_kolloquium/)
+- [RevealJS Demo](https://mai-space.github.io/mai-joel_maximilian-bachelor_kolloquium/demo.html)
+- [Original Presentation](https://mai-space.github.io/mai-joel_maximilian-bachelor_kolloquium/mi-original.html)
 
 ---
 
